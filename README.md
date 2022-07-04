@@ -12,7 +12,9 @@ An example using the basic mapping facilities in SAS
 
 ![alt text](https://github.com/suksel/ics/blob/main/gmap.jpg?raw=true)
 
+A more advanced example using Visual Analytics - this would allow self-service reporting surfacing measures (Funding, Population) on the map
 
+![alt text](https://github.com/suksel/ics/blob/main/VAReport.jpg?raw=true)
 
 ### GNU GPL v3
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)    
