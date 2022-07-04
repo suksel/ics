@@ -16,6 +16,8 @@ A more advanced example using Visual Analytics - this would allow self-service r
 
 ![alt text](https://github.com/suksel/ics/blob/main/VAReport.jpg?raw=true)
 
+The ICS statistics is taken from the appendix of this page https://www.health.org.uk/publications/long-reads/integrated-care-systems-what-do-they-look-like and converted to a SAS dataset and CSV file for use in mapping
+
 # License
 ### GNU GPL v3
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)    
