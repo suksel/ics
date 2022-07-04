@@ -8,6 +8,8 @@ The Enterprise Guide project then exported the SAS dataset as a CSV which is zip
 
 The CSV file (in the .7z file) is at Density=2 so ics2
 
+![alt text](https://github.com/suksel/ics/blob/main/gmap.jpg?raw=true)
+
 
 
 ### GNU GPL v3
